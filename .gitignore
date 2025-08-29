@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env & credentials
+.env
+.env.*
+
+# VSCode & IDE
+.vscode/
+.idea/
+
+# Output
+/dist/
+/build/
+
+# Optional: ignore cookies or session files if ada
+*.cookie
+*.session
+
+# Ignore coverage
+coverage/
+
+# Ignore local config
+*.local.js
+*.local.json
