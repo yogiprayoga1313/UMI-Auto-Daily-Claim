@@ -15,7 +15,7 @@ Bot otomatis untuk claim daily XP di [odyssey.uminetwork.com](https://odyssey.um
 
 1. **Clone repo**
    ```bash
-   git clone https://github.com/username/umi-daily-claim.git
+   git clone https://github.com/yogiprayoga1313/UMI-Auto-Daily-Claim.git
    cd umi-daily-claim
    ```
 2. **Install dependencies**
